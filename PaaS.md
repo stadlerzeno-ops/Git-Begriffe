@@ -1,16 +1,16 @@
-# IaaS – Infrastructure as a Service
+# PaaS – Platform as a Service
 
 ## Was ist das?
-Bei IaaS mietet man reine Rechenressourcen wie VMs, Speicher und Netzwerke im Rechenzentrum des Providers. Man spart sich den Hardwarekauf, muss aber das Betriebssystem, Updates und Software komplett selbst verwalten.
+PaaS liefert eine fertige Entwicklungs- und Laufzeitumgebung. Man kümmert sich nur um den eigenen Programmcode und die Datenbank – um Server, Betriebssystem-Patches oder Webserver-Konfigurationen kümmert sich der Anbieter.
 
 ## Modell
-* **Provider:** Physische Server, Strom, Storage, Hypervisor
-* **Du:** Betriebssystem, Patches, Firewall, Software, Daten
+* **Provider:** Server, OS, Updates, Webserver, Runtimes
+* **Du:** Code, Anwendungslogik, Datenbankinhalte
 
 ## Beispiele
-* AWS EC2, Azure VMs, Hetzner Cloud
+* Azure App Services, AWS Elastic Beanstalk, Heroku
 
 ## Vor- & Nachteile
-* **+** Volle Kontrolle über das OS
-* **+** Hardware muss nicht gekauft/gewartet werden
-* **-** Hoher Administrations- und Updateaufwand
+* **+** Schnelles Deployment ohne Serververwaltung
+* **+** Automatische Skalierung
+* **-** Wenig Zugriff auf Systemebene
