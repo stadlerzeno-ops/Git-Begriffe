@@ -6,4 +6,10 @@ Ressourcen werden von grossen Hyperscalern übers Internet bereitgestellt. Viele
 ## Aufbau
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00e7b34f-ed92-4539-b916-6496773c462b" />
 
+## Beispiele
+* Microsoft Azure, AWS, Google Cloud
 
+## Vor- & Nachteile
+* **+** Fast unendlich und sekundenschnell skalierbar
+* **+** Keine eigene Hardware nötig
+* **-** Laufende Kosten können schnell steigen
