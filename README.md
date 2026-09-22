@@ -10,5 +10,6 @@ Modul 346
 | Privatecloud | [Öffnen](Privatecloud.md) |
 | Publiccloud | [Öffnen](Publiccloud.md) |
 | SaaS | [Öffnen](SaaS.md) |
+
 "Lokal" 
 "VS Code"
